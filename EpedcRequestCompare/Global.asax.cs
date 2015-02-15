@@ -10,6 +10,7 @@ namespace EpedcRequestCompare
 {
     public class MvcApplication : System.Web.HttpApplication
     {
+        //تغییر بهزاد
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();
